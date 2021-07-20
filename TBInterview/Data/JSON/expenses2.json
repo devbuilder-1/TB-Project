@@ -1,0 +1,32 @@
+[
+  {
+    "title": "East Coast Visit",
+    "category": "travel",
+    "amount": 620.00,
+  },
+  {
+    "title": "Oakland",
+    "category": "travel",
+    "amount": 120.00,
+  },
+  {
+    "title": "Sam's",
+    "category": "food",
+    "amount": 24.00,
+  },
+  {
+    "title": "Toronto",
+    "category": "travel",
+    "amount": 220.00,
+  },
+  {
+    "title": "Figma",
+    "category": null,
+    "amount": 79.00,
+  },
+  {
+    "title": "San Jose Conference",
+    "category": "travel",
+    "amount": 350.00,
+  },
+]

@@ -1,0 +1,6 @@
+framework module Pods_TBInterviewTests {
+  umbrella header "Pods-TBInterviewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

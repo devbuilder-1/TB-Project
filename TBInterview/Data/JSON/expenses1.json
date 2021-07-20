@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Adobe",
+    "category": "software",
+    "amount": 440.00,
+  },
+  {
+    "title": "Tony's",
+    "category": "food",
+    "amount": 44.00,
+  },
+  {
+    "title": "Microsoft",
+    "category": "software",
+    "amount": 200.00,
+  },
+  {
+    "title": "San Jose Conference",
+    "category": "travel",
+    "amount": 350.00,
+  },
+  {
+    "title": "Safeway",
+    "category": "food",
+    "amount": 76.00,
+  },
+  {
+    "title": "Atlassian",
+    "category": "software",
+    "amount": 19.00,
+  },
+  {
+    "title": "Devil's Tooth",
+    "category": "food",
+    "amount": 12.00,
+  },
+]

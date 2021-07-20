@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Microsoft",
+    "category": "software",
+    "amount": 200.00,
+  },
+  {
+    "title": "San Jose Conference",
+    "category": "travel",
+    "amount": 350.00,
+  },
+  {
+    "title": "Toronto",
+    "category": "travel",
+    "amount": 120.00,
+  },
+  {
+    "title": "Angler",
+    "category": "food",
+    "amount": 550.00,
+  },
+  {
+    "title": "Atlassian",
+    "category": "software",
+    "amount": 19.00,
+  },
+  {
+    "title": "Devil's Tooth",
+    "category": "food",
+    "amount": 12.00,
+  },
+]
